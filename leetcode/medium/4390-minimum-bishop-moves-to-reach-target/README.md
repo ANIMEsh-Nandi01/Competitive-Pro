@@ -56,8 +56,8 @@ No matter how many diagonal moves it makes, the bishop starting at `(1, 1)` can 
 
 **Language:** Java  
 **Runtime:** 1 ms (beats 100.00%)  
-**Memory:** 44 MB  
-**Submitted:** 2026-08-29T15:37:07.521Z  
+**Memory:** 44 MB (beats 100.00%)  
+**Submitted:** 2026-08-29T15:37:27.774Z  
 
 ```java
 class Solution {
