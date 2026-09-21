@@ -73,7 +73,7 @@ xyyyx
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-21T15:13:23.321Z  
+**Submitted:** 2026-09-21T15:13:59.313Z  
 
 ```java
 class Solution {
