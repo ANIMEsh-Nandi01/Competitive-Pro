@@ -12,11 +12,11 @@ class Codechef
 		    int Y = scanner.nextInt();
 		    int Z = scanner.nextInt();
 		    
-		    int totalChips = X + y;
+		    int totalChips = X + Y;
 		    int unavailableChips = 2* Z;
 		    int remainingChips = totalChips - unavailableChips;
 		    
-		    System.out.System.out.println(remainingChips);
+		    System.out.println(remainingChips);
 		}
 		
 		scanner.close();
