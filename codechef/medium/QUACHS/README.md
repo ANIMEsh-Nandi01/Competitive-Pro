@@ -71,7 +71,7 @@ Therefore, $100-40=60$ chips remain.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-21T13:54:56.274Z  
+**Submitted:** 2026-09-21T14:27:12.287Z  
 
 ```java
 import java.util.*;
@@ -83,6 +83,19 @@ class Codechef
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here
+		if(scanner.hasNextInt()) {
+		    int X = scanner.nextInt();
+		    int Y = scanner.nextInt();
+		    int Z = scanner.nextInt();
+		    
+		    int totalChips = X + y;
+		    int unavailableChips = 2* Z;
+		    int remainingChips = totalChips - unavailableChips;
+		    
+		    System.out.System.out.println(remainingChips);
+		}
+		
+		scanner.close();
 
 	}
 }
