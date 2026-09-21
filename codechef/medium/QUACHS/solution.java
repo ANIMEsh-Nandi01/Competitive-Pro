@@ -7,6 +7,8 @@ class Codechef
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here
+		Scanner scanner = new Scanner(System.in);
+		
 		if(scanner.hasNextInt()) {
 		    int X = scanner.nextInt();
 		    int Y = scanner.nextInt();
