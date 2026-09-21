@@ -71,7 +71,7 @@ Therefore, $100-40=60$ chips remain.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-21T14:19:09.980Z  
+**Submitted:** 2026-09-21T13:54:56.274Z  
 
 ```java
 import java.util.*;
@@ -83,7 +83,6 @@ class Codechef
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here
-		if()
 
 	}
 }
